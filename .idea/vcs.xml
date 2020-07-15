@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/thirdparty" vcs="Git" />
+    <mapping directory="D:\Project\Chaincode\app" vcs="Git" />
+    <mapping directory="D:\Project\Chaincode\fabric-java" vcs="Git" />
+    <mapping directory="D:\Project\Chaincode\fabric-sdk" vcs="Git" />
+    <mapping directory="D:\Project\Chaincode\manage" vcs="Git" />
+    <mapping directory="D:\Project\Chaincode\model" vcs="Git" />
+    <mapping directory="D:\Project\Chaincode\parent" vcs="Git" />
+    <mapping directory="D:\Project\Chaincode\thirdparth" vcs="Git" />
+  </component>
+</project>
